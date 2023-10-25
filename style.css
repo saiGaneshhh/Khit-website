@@ -1,0 +1,150 @@
+.parent{
+    display: flex;
+    justify-content: space-around;
+}
+.NBA{
+    display: flex;
+    justify-content: space-around;
+}
+.contant{
+    padding-left: 10px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+}
+.home{
+    display: flex;
+    justify-content: space-around;
+    background-color: #C54500;
+    padding: 15px;
+    color: white;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.home div:hover{
+    background-color: black;
+    cursor: pointer;
+}
+.results,.jobs{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    padding-top: 10px;
+   
+}
+.update,.placement{
+    color: red;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.results div:hover,.jobs div:hover{
+    color: blueviolet;
+}
+.img{
+    padding-top: 50px;
+    cursor: pointer;
+    width: 250px;
+}
+.newdiv{
+    display: flex;
+    justify-content: space-between;
+}
+.about{
+display: flex;
+justify-content: space-around;
+margin-top:50px;
+border: 1px solid #EBEBEB ;
+height: fit-content;
+width: 600px;
+padding: 10px;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+background-color: #EBEBEB;
+font: bolder;
+cursor: pointer;
+}
+.news{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    border: 2px solid black;
+    padding: 5px;
+    width: 300px;
+    margin-bottom: 200px;
+    cursor: pointer;
+    height: fit-content;
+}
+.about{
+    background-color: #EBEBEB;
+    font: bolder;
+}
+.table1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    border: 2px solid  #EBEBEB;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.image1{
+    padding-right: 30px;
+}
+.button{
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.but{
+    padding: 10px;
+    border-radius: 10px;
+    border: #EBEBEB;
+    cursor: pointer;
+}
+.about div:hover{
+    color: red;
+}
+.table{
+    padding-left: 10px;
+}
+.news1 {
+    color: red;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.news{
+    color: white;
+    background-color: #08247D;
+    border: 2px solid  #EBEBEB;
+    margin-bottom: 0%;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.news2{
+    border: 2px solid  #EBEBEB;
+    height: 350px;
+    padding-left: 10px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.a{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.details{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+    background-color: #E85D12;
+    color: white;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    height: 300px;
+}
+.us{
+    color: red;
+}
+.home select{
+    background-color: #C54500;
+    border-color: #C54500;
+    color: white;
+    cursor: pointer;
+}
+.home select:hover{
+    background-color: black;
+}
